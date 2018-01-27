@@ -1,0 +1,6 @@
+[package]
+name = "rust-eulers"
+version = "0.1.0"
+authors = ["Qingwei <l.q.wei91@gmail.com>"]
+
+[dependencies]
